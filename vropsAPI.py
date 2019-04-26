@@ -1,6 +1,5 @@
 #Creted By Ferhat Guneri
 #Mail: guneriferhat21@gmail.com
-#Written Python 2.7
 
 # -*- coding: utf-8 -*-
 import requests
